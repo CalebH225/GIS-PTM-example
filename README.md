@@ -18,6 +18,6 @@ This is an opensource GIS software that is free to download
 Please be sure to download the appropriate version for your operating system
 I would reccomend the stable version to avoid bugs and other issues that may be present in beta versions
 
-
+Provided Data
 
 
