@@ -9,7 +9,7 @@ David McCall- Dsmccall@vt.edu <br>
 Chase Straw- Chase.Straw@ag.tamu.edu <br>
 Caleb Henderson- Calebah@vt.edu
 
-Required downloads
+Required downloads:
 
 Qgis: https://qgis.org/en/site/forusers/download.html
 This is an opensource GIS software that is free to download
