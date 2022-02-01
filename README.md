@@ -9,6 +9,8 @@ David McCall- Dsmccall@vt.edu <br>
 Chase Straw- Chase.Straw@ag.tamu.edu <br>
 Caleb Henderson- Calebah@vt.edu
 
+Data Collected by Wendell Hutchens (Wendelljh@vt.edu) focusing on Baycreek Resort golf course  in Cape Charles, VA as part of a research project for his PhD research.
+
 Required downloads:
 
 Qgis: https://qgis.org/en/site/forusers/download.html
