@@ -18,6 +18,6 @@ This is an opensource GIS software that is free to download
 Please be sure to download the appropriate version for your operating system
 I would reccomend the stable version to avoid bugs and other issues that may be present in beta versions
 
-Provided Data
+Provided Data which inlcudes a boundary shapefile (Example boundary.zip), a point shapefile (Example points.zip) for disease incidence, as well as a geopackage inlcuding the image of of the fairway itself (Example image.gpkg). I appologize for the reduction in image quality that this provides but it is to save space in this repository.
 
 
