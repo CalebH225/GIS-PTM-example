@@ -31,7 +31,26 @@ Buffer circles are a simple way to create a management area from points for prec
 
 5.) This will result in a new layer called 'Dissolved'. Which has all of those circles combined into individual shapes this layer can be exported to a new shapefile by rightclicking on the Dissolved layer and selecting export.
 
-5.) T
+#### This created a map with a 1m boundary around each of the points of located disease this can be exported, and imported into Precision turfgrass management technology
+
+# Heatmapping
+
+Heatmapping is a great way to generate blocks of areas with high amounts of disease incidence. This can make for less complex maps while still covering the most stressed areas of turfgrass. 
+
+1.) On the top row of icons look for the blue gear symbolizing the Toolbox (you can also press alt+crl+T) to bring up the toolbox pane.
+
+2.) Search 'Heatmap'. This should reveal the "Heatmap(Kernel density estimation)" underneath the Interpolation tab. Click on this to bring up the Heatmap window.
+
+3.) Make sure that the 'BCH5_points' layer is selected under inputs, and change radius to 10 meters. Press the 'Run' button, and close the log window.
+
+This will make a new greyscale raster. While this is useful it can be difficult to interperet. 
+
+4.)To make change the colour to something we are more familiar with we can right click on the Heatmap layer in the layer pane, and select 'Properties'. At the top of the Symbology tab, change the 'Render Type' from 'Singleband Gray' to 'Singleband Pseudocolor'. You can also change Interpolation to Discrete, and Mode(below the legend window) to Equal Interval. This will change from a smooth colour ramp to seperate groups. Press OK.
+
+#### Now you should have a heatmap of the disease incidence on your fairway. From here you can decide which areas raise to an unacceptable level
+
+
+
 
 
 
