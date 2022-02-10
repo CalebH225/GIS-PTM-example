@@ -7,6 +7,10 @@ While this specific project focuses on the disease mapping the concepts are fund
 Please Participate in our [survey on irrigation](Tinyurl.com/UMNIrrigationSurvey) it should take between 15-20 minutes to complete:<br>
 URL: Tinyurl.com/UMNIrrigationSurvey
 
+[University of Minnesota Golf Course fairway mapping protocol](https://license.umn.edu/product/protocol-for-golf-course-soil-moisture-mapping) A $0 licence protocol for the using a TDR350 with GPS to make a soil moisture map for your golfcourse fairway.
+
+URL: https://license.umn.edu/product/protocol-for-golf-course-soil-moisture-mapping
+
 Instructors: <br>
 David McCall- Dsmccall@vt.edu <br>
 Chase Straw- Chase.Straw@ag.tamu.edu <br>
