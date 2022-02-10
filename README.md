@@ -4,6 +4,9 @@ A step by step walkthrough on building basic disease maps for Precision Turfgras
 This was developed as part of a larger presentation "Precision Turfgrass Management: Targeted Applications Edition" at GCSSA Conference and Trade Show 2022.
 While this specific project focuses on the disease mapping the concepts are fundemental and can be transfered to other aspects of PTM including irrigation, weed control.
 
+Please Participate in our [survey on irrigation](Tinyurl.com/UMNIrrigationSurvey) it should take between 15-20 minutes to complete:<br>
+URL: Tinyurl.com/UMNIrrigationSurvey
+
 Instructors: <br>
 David McCall- Dsmccall@vt.edu <br>
 Chase Straw- Chase.Straw@ag.tamu.edu <br>
