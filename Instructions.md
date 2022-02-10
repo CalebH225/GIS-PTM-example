@@ -17,6 +17,28 @@ Please ensure that the lastest stable release of Qgis (or another suitable GIS s
 
 #### From here we will explore a couple of potential methods of utilising this data to create disease maps for Precision Turfgrass Management.
 
+# Making Points or Polygons
+
+Making points or polygons is going to form the foundataion for most aspects of Precision Turfgrass Management. Points could be used to represent sprinkler heads, or disease maps. Polygons can be used to form boundaries of fairways, or be used to select areas of high disease pressure for precision treatments. While the methods are pretty uniform, the applications are only limited to what can be represented on a map.
+
+1.) Open Qgis and start a new project (The blank paper icon in the upper right). 
+
+2.) to generate a point press on the new shapefile icon ('V' shaped icon below the save Icon). Look to the right of the 'File Name' line and press the '...' and select the location and filename you would like to use.
+
+3.) For the geometry type icon select the geometry type you would like to use, generally either Point or Polygon. When everything is filled out the 'OK' button should become available. Press it.
+
+4.) You should now notice a new layer in the layers pane on the right with your new shapefile name. To add either points or polygons to this new layer, press the pencil shaped 'Toggle Editing' icon to the left of the shapefile icon. this will highlight either the add points or add polygon feature icons (depending on which you selected) several icons over. Press this to allow for the creation of new features in the shapefile.
+
+5.) Now try clicking on the open window in the center. you will see either a point or a vertex of a polygon appear. 
+
+If you selected points you will be prompted to add a custom id, if none is selected then they will be automatically assigned sequentially. 
+
+If you selected polygon features you can continue to left click to add vertices, to finish right click. You will be prompted to add a custom id, if none is selected then they will be automatically assigned sequentially. 
+
+6.) You may continue to add points or polygons until you are content. when finished press the save layer edits icon on the toolbar. 
+
+You may continue for the rest of this presentation with your custom data, or you can download the example shapefiles that we have included.
+
 # Buffer circles
 
 Buffer circles are a simple way to create a management area from points for precise treatment. The idea with this management style is that if you have an accurate series of points where a problem is, you only need to spray those individual areas. one drawback of this style is that if any disease is missing on your map you may not treat it if it is not adjacent to another point. 
